@@ -1,0 +1,1 @@
+# fuckadblock.min.js
